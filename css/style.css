@@ -6,20 +6,20 @@
 
 .box-pink {
     height: 150px;
-    background-color: pink;
+    background-color: palevioletred;
 }
 
 .box-yellow {
     height: 500px;
     background-color: yellow;
-    margin: 20px 0px;
+    margin: 25px 0px;
 }
 
 .big-box-blue {
     height: 800px;
     width: 100%;
     background-color: lightblue;
-    margin: 20px 0px 8px 0px;
+    margin: 25px 0px 8px 0px;
     
 }
 
